@@ -5,9 +5,9 @@ In this mining project we decide as students to work on a student stress factors
 # The Goal 
 The goal of collecting the dataset "Student Stress Factors: A Comprehensive Analysis" is likely to understand and analyze the factors contributing to stress among students. By gathering data on various aspects of students' lives, such as demographics, academic performance, lifestyle choices, and mental health indicators, the dataset aims to provide insights into the complexities of student stress. The ultimate objective may include identifying patterns, correlations, and potential predictors of stress, as well as informing interventions and strategies to support student well-being in educational settings.
 
-- Clustering: The main goal of clustering is to group similar data points together based on certain features or attributes, without knowing the specific labels or classes beforehand. The aim is to discover inherent patterns or structures within the data, which can help in understanding the underlying relationships and organization.
+Clustering: The main goal of clustering is to group similar data points together based on certain features or attributes, without knowing the specific labels or classes beforehand. The aim is to discover inherent patterns or structures within the data, which can help in understanding the underlying relationships and organization.
 
-- Classification: In contrast, classification aims to assign predefined labels or classes to data instances based on their features. The goal is to build a model that can accurately predict the class of new, unseen data points. Classification is often used for tasks, where the goal is to categorize data into distinct classes or categories.
+Classification: In contrast, classification aims to assign predefined labels or classes to data instances based on their features. The goal is to build a model that can accurately predict the class of new, unseen data points. Classification is often used for tasks, where the goal is to categorize data into distinct classes or categories.
 
 Both clustering and classification are essential techniques in data mining and machine learning, each serving distinct purposes in analyzing and extracting insights from data.
 
